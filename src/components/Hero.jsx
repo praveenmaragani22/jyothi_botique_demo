@@ -1,7 +1,7 @@
 import { useReveal } from '../hooks/useReveal';
 import { PHONE, WA_NUMBER, WA_MSG } from '../data';
 
-const HERO_IMG = 'https://images.unsplash.com/photo-1610189020956-4abb33200b66?w=1200&q=85';
+const HERO_IMG = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR67d_WGaiWKd5URD6Cyn6hcNjwodgbbLmcC6mOzOmxYeASOwOZD77YkSI&s=10';
 
 const CONTENT = {
   en: {
