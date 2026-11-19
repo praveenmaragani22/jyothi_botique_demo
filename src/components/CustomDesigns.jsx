@@ -3,7 +3,7 @@ import { useReveal, useStaggerReveal } from '../hooks/useReveal';
 import PalluDivider from './PalluDivider';
 
 const COLLAGE_IMGS = [
-  { src: 'https://images.unsplash.com/photo-1620912189868-4b4b0ba91a28?w=600&q=80', alt: 'Gold zari saree fabric', cls: 'col-span-2 row-span-2 h-72 sm:h-80' },
+  { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ZbeOGZkqqsvJ12Lm_XrLb1950bZ0Buz-tSiy4o2Ccg&s=10', alt: 'Gold zari saree fabric', cls: 'col-span-2 row-span-2 h-72 sm:h-80' },
   { src: 'https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=400&q=80', alt: 'Stacked folded sarees', cls: 'h-36 sm:h-40' },
   { src: 'https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=400&q=80', alt: 'Fabric texture close up', cls: 'h-36 sm:h-40' },
 ];

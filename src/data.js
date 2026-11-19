@@ -19,7 +19,7 @@ export const COLLECTIONS = [
     title: 'Festive Sarees',
     titleTe: 'పండుగ చీరలు',
     desc: 'Brilliant silks and zaris for Dasara, Ugadi, and wedding seasons.',
-    img: 'https://images.unsplash.com/photo-1610189020956-4abb33200b66?w=600&q=80',
+    img: 'https://assets0.mirraw.com/images/14186555/image_original_zoom.jpeg?1783077519',
     color: '#6b1414',
   },
   {
@@ -46,14 +46,7 @@ export const COLLECTIONS = [
     img: 'https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80',
     color: '#b22222',
   },
-  {
-    id: 'mens',
-    title: "Men's Wear",
-    titleTe: 'పురుషుల దుస్తులు',
-    desc: 'Custom shirts with margin work and tailored ethnic fits for all occasions.',
-    img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80',
-    color: '#1b4332',
-  },
+  
 ];
 
 export const SERVICES = [
@@ -105,15 +98,15 @@ export const CUSTOM_STEPS = [
 ];
 
 export const GALLERY_IMGS = [
-  { src: 'https://images.unsplash.com/photo-1610189020956-4abb33200b66?w=800&q=80', alt: 'Red festive silk saree' },
-  { src: 'https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=800&q=80', alt: 'Embellished saree close up' },
+  { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9QEJR60tSaZPwl1RzDJr5Y8U3SW9rRRlhrFTZSXPhXg&s=10', alt: 'Red festive silk saree' },
+  { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8AAcYMc6v0RMgvqOZz7iVbbVDLjSWPyW08gc1t3E4w&s=10', alt: 'Embellished saree close up' },
   { src: 'https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&q=80', alt: 'Colourful saree drape' },
-  { src: 'https://images.unsplash.com/photo-1620912189868-4b4b0ba91a28?w=800&q=80', alt: 'Gold zari work saree' },
+  { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcnhUkPYIcHZxu-rI183aWJMsLaWJNtP7Abneq0doVQ&s=10', alt: 'Gold zari work saree' },
   { src: 'https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=800&q=80', alt: 'Folded silk sarees stack' },
   { src: 'https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=800&q=80', alt: 'Fabric texture close-up' },
-  { src: 'https://images.unsplash.com/photo-1562158074-4b5bfa2a0f47?w=800&q=80', alt: 'Traditional weave pattern' },
-  { src: 'https://images.unsplash.com/photo-1620912189981-00f88e1bb0d1?w=800&q=80', alt: 'Saree border embroidery' },
-  { src: 'https://images.unsplash.com/photo-1627481483060-98f2e9c2e9e3?w=800&q=80', alt: 'Blue georgette saree' },
+  { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93-DXRn9JRBfTKijdRNrPrXVrrytPFdNksw50CV3VUg&s', alt: 'Traditional weave pattern' },
+  { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGcnhUkPYIcHZxu-rI183aWJMsLaWJNtP7Abneq0doVQ&s=10', alt: 'Saree border embroidery' },
+  { src: 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&q=80', alt: 'Blue georgette saree' },
 ];
 
 export const PAYMENT_ICONS = [
@@ -124,10 +117,10 @@ export const PAYMENT_ICONS = [
 ];
 
 export const INSTAGRAM_POSTS = [
-  'https://images.unsplash.com/photo-1610189020956-4abb33200b66?w=400&q=80',
+  'https://assets0.mirraw.com/images/14186555/image_original_zoom.jpeg?1783077519',
   'https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=400&q=80',
   'https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=400&q=80',
-  'https://images.unsplash.com/photo-1620912189868-4b4b0ba91a28?w=400&q=80',
+  'https://www.rajwadi.com/media/catalog/product/f/e/festive-wear-dark-green-banarasi-silk-saree-62075_1.jpg',
   'https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?w=400&q=80',
   'https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=400&q=80',
 ];
